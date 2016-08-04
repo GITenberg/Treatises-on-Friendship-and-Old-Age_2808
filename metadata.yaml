@@ -1,0 +1,40 @@
+_repo: Treatises-on-Friendship-and-Old-Age_2808
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
+    aliases:
+    - Shuckburgh, Evelyn Shirley
+    - Shuckburgh, E. S. (Evelyn Shirley)
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '1033'
+    url: http://www.gutenberg.org/2009/agents/1033
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: On friendship / Marcus Tullius Cicero -- On old age / Marcus Tullius
+  Cicero -- Letters of Cicero / translated by E.S. Shuckburgh.
+gutenberg_bookshelf:
+- Classical Antiquity
+- Harvard Classics
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship'
+- !lcsh 'Old age'
+- !lcc 'PA'
+- GITenberg
+title: Treatises on Friendship and Old Age
+url: http://www.gutenberg.org/ebooks/2808
